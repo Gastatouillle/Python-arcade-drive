@@ -1,5 +1,5 @@
 **SETUP**
-1: Copy folders onto your computer
+1: Copy folders onto your computer \n
 2: Open root folder in wpilib 2025
 3: run "py -3 -m robotpy sync"
 4: run "py -3 -m robotpy deploy"
