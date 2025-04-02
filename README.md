@@ -1,8 +1,8 @@
 **SETUP**  
 1: Copy folders onto your computer  
 2: Open root folder in wpilib 2025  
-3: run "py -3 -m robotpy sync"  
-4: run "py -3 -m robotpy deploy"  
+3: run "py -3 -m robotpy sync" <-- while connected to wifi  
+4: run "py -3 -m robotpy deploy" <-- while connected to robot  
   
 **Modification**  
 To change motor controllers, copy over lines 11/12 which reference the WPI_TalonSRX, or the WPI_VictorSPX.
